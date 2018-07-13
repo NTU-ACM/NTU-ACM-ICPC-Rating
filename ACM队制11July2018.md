@@ -29,6 +29,8 @@
 
     目前 Rating 维护者: 网络工程172 陈迪荣 QQ: 3344517687
 
+    注: OJ 刷题量统计数据来源 [NWPU-ACM 查询系统](https://new.npuacm.info/statistics) 默认统计 cf 同 id 账号.
+
 ### 比赛名额分配
 
 -   网络赛
