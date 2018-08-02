@@ -32,7 +32,7 @@ Ittzz + 10
 
   perfectisshit +10
 
--   2018.7.15 ECL-Final
+- 2018.7.15 ECL-Final
 
     Simon wanggann thirtiseven +10
 
@@ -40,7 +40,7 @@ Ittzz + 10
 
     Ittzz Jeanyan STRworld + 4
 
--   2018 7.18 484div2
+- 2018 7.18 484div2
 
     wanggann +30
 
@@ -48,7 +48,7 @@ Ittzz + 10
 
     _Simon + 10
 
--   2018 7.23 486 div3
+- 2018 7.23 486 div3
 
     perfectisshit +30
 
@@ -56,10 +56,18 @@ Ittzz + 10
 
     _Simon +10
 
--   2018 7.25 481 div3
+- 2018 7.25 481 div3
 
     fourleafSYC +30
 
     JeanYan +20
 
     _Simon +10
+
+- 2018.8.1 ABC102&&ARC100 
+
+    Wanggann +30
+
+    thirtiseven +20
+
+    AgedTime +10
