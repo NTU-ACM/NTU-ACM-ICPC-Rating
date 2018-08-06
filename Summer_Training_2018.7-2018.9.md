@@ -71,3 +71,11 @@ Ittzz + 10
     thirtiseven +20
 
     AgedTime +10
+
+- 2018.8.3 [2015 ACM Amman Collegiate Programming Contest](http://codeforces.com/gym/100712)
+
+    Simon wanggann thirtiseven +10
+
+    Qsama +20
+
+    STRWorld Dawnzk perfectshit + 4
