@@ -79,3 +79,11 @@ Ittzz + 10
     Qsama +20
 
     STRWorld Dawnzk perfectshit + 4
+
+- 2018.8.6 2018多校3 HDUcontest
+
+    Simon wanggann thirtiseven +10
+
+    JeanYan SYC agedTime + 8
+
+    Qsama Ittzz +5
