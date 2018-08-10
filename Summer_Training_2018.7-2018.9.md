@@ -87,3 +87,11 @@ Ittzz + 10
     JeanYan SYC agedTime + 8
 
     Qsama Ittzz +5
+
+- 2018.8.10 [2015-2016 ACM-ICPC, NEERC, Northern Subregional Contest](http://codeforces.com/gym/100801)
+
+    Simon wanggann thirtiseven +10
+
+    JeanYan SYC agedTime + 8
+
+    Qsama perfectisshit STRWorld +4
