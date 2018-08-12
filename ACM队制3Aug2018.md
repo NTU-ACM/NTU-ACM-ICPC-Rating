@@ -38,7 +38,7 @@
 
     CodeVS/ USACO/ 洛谷/ 蓝桥/ LeetCode/ PAT/ 51Node/ nowcoder 等其他中文题库/面试题库/大学OJ/专题训练计划将不被计入。
 
-    为了公平起见，VJudge 题目数将不被计入，在VJudge上刷题的麻烦到对应OJ重新提交一遍。
+    VJudge 题数将被计入，若发现重复提交，则取消涉及重复提交的OJ的所有题数。
 
     **八月尽量做到即时更新Rating**
 
