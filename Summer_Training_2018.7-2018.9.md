@@ -95,3 +95,12 @@ Ittzz + 10
     JeanYan SYC agedTime + 8
 
     Qsama perfectisshit STRWorld +4
+
+- 2018.8.13 2015-16 China-Final
+
+    Simon wanggann thirtiseven +10
+
+    Qsama perfectisshit STRWorld +8
+
+    lttzz Dawnzk ChrisDing +4
+
