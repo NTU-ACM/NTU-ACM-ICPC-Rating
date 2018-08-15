@@ -104,3 +104,10 @@ Ittzz + 10
 
     lttzz Dawnzk ChrisDing +4
 
+- 2018.8.15 [Codeforces Round #268 (Div. 2)](http://codeforces.com/contest/469)
+
+    wanggann +30
+
+    thirtiseven+20
+
+    Ittzz+10
