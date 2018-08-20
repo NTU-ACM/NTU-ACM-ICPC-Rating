@@ -111,3 +111,19 @@ Ittzz + 10
     thirtiseven+20
 
     Ittzz+10
+
+- 2018.8.17 [2014-2015 ACM-ICPC, NEERC, Southern Subregional Contest](http://codeforces.com/gym/100513)
+
+    Simon wanggann thirtiseven +10
+
+    lttzz Dawnzk ChrisDing +8
+
+    JeanYan SYC agedTime + 4
+
+- 2018.8.20 2017 Beijing Onsite
+
+    Simon wanggann thirtiseven +10
+
+    Qsama perfectisshit STRWorld +8
+
+    lttzz Dawnzk ChrisDing +4
