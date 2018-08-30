@@ -127,3 +127,19 @@ Ittzz + 10
     Qsama perfectisshit STRWorld +8
 
     lttzz Dawnzk ChrisDing +4
+
+- 2018.8.22 [Educational Codeforces Round 49 (Rated for Div. 2)](http://codeforces.com/contest/1027)
+
+    agedTime +30
+
+    thirtiseven+20
+
+    STRworld+10
+
+- 2018.8.24 beijing online 2017
+
+    Simon +30
+
+    STRworld +20
+
+    Jeanyan perfectisshit +5
